@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # KnowSpace - Modular Knowledge Workspace
 
 A comprehensive knowledge collaboration platform that combines structured document creation with integrated forum discussions, built with Next.js and Supabase.
@@ -176,3 +177,6 @@ For support and questions:
 \`\`\`
 
 ```json file="" isHidden
+=======
+# KnowSpace
+>>>>>>> b6c36986a26b36ab5bb86240dc1ca1b7e946d615
